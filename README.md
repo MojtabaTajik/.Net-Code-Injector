@@ -1,5 +1,5 @@
 # .Net-Code-Injector
-Proof of concept of .Net file infectors
+Proof of concept of .Net file infector
 
 This simple injector show how to infect .Net executables to download and execute payload from internet address using injected IL code .
 
